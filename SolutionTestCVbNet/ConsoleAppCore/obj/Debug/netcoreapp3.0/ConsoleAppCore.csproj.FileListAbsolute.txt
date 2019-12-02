@@ -1,0 +1,14 @@
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\bin\Debug\netcoreapp3.0\ConsoleAppCore.exe
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\bin\Debug\netcoreapp3.0\ConsoleAppCore.deps.json
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\bin\Debug\netcoreapp3.0\ConsoleAppCore.runtimeconfig.json
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\bin\Debug\netcoreapp3.0\ConsoleAppCore.runtimeconfig.dev.json
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\bin\Debug\netcoreapp3.0\ConsoleAppCore.dll
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\bin\Debug\netcoreapp3.0\ConsoleAppCore.pdb
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\obj\Debug\netcoreapp3.0\ConsoleAppCore.csprojAssemblyReference.cache
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\obj\Debug\netcoreapp3.0\ConsoleAppCore.AssemblyInfoInputs.cache
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\obj\Debug\netcoreapp3.0\ConsoleAppCore.AssemblyInfo.cs
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\obj\Debug\netcoreapp3.0\ConsoleAppCore.dll
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\obj\Debug\netcoreapp3.0\ConsoleAppCore.pdb
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\bin\Debug\netcoreapp3.0\ClassLibraryVbNet.dll
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\bin\Debug\netcoreapp3.0\ClassLibraryVbNet.pdb
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ConsoleAppCore\obj\Debug\netcoreapp3.0\ConsoleAppCore.csproj.CopyComplete

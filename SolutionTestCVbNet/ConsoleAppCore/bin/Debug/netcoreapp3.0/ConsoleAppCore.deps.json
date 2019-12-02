@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ConsoleAppCore/1.0.0": {
+        "dependencies": {
+          "ClassLibraryVbNet": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppCore.dll": {}
+        }
+      },
+      "ClassLibraryVbNet/1.0.0": {
+        "runtime": {
+          "ClassLibraryVbNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryVbNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

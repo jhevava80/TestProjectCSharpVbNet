@@ -1,0 +1,7 @@
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ClassLibraryVbNet\bin\Debug\netstandard2.0\ClassLibraryVbNet.deps.json
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ClassLibraryVbNet\bin\Debug\netstandard2.0\ClassLibraryVbNet.dll
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ClassLibraryVbNet\bin\Debug\netstandard2.0\ClassLibraryVbNet.pdb
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ClassLibraryVbNet\obj\Debug\netstandard2.0\ClassLibraryVbNet.AssemblyInfoInputs.cache
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ClassLibraryVbNet\obj\Debug\netstandard2.0\ClassLibraryVbNet.AssemblyInfo.vb
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ClassLibraryVbNet\obj\Debug\netstandard2.0\ClassLibraryVbNet.dll
+C:\Clone Repositories\TestProjectCSharpVbNet\SolutionTestCVbNet\ClassLibraryVbNet\obj\Debug\netstandard2.0\ClassLibraryVbNet.pdb

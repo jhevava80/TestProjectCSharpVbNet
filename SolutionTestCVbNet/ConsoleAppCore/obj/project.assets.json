@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ClassLibraryVbNet/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ClassLibraryVbNet.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibraryVbNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibraryVbNet/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibraryVbNet/ClassLibraryVbNet.vbproj",
+      "msbuildProject": "../ClassLibraryVbNet/ClassLibraryVbNet.vbproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "ClassLibraryVbNet >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jhon.vargas\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ConsoleAppCore\\ConsoleAppCore.csproj",
+      "projectName": "ConsoleAppCore",
+      "projectPath": "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ConsoleAppCore\\ConsoleAppCore.csproj",
+      "packagesPath": "C:\\Users\\jhon.vargas\\.nuget\\packages\\",
+      "outputPath": "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ConsoleAppCore\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jhon.vargas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj": {
+              "projectPath": "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
