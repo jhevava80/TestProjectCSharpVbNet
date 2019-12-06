@@ -655,19 +655,21 @@
   },
   "packageFolders": {
     "C:\\Users\\jhon.vargas\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ConsoleAppCore\\ConsoleAppCore.csproj",
+      "projectUniqueName": "C:\\Github Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ConsoleAppCore\\ConsoleAppCore.csproj",
       "projectName": "ConsoleAppCore",
-      "projectPath": "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ConsoleAppCore\\ConsoleAppCore.csproj",
+      "projectPath": "C:\\Github Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ConsoleAppCore\\ConsoleAppCore.csproj",
       "packagesPath": "C:\\Users\\jhon.vargas\\.nuget\\packages\\",
-      "outputPath": "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ConsoleAppCore\\obj\\",
+      "outputPath": "C:\\Github Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ConsoleAppCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\jhon.vargas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -684,8 +686,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj": {
-              "projectPath": "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj"
+            "C:\\Github Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj": {
+              "projectPath": "C:\\Github Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj"
             }
           }
         }

@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj": {}
+    "C:\\Github Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj": {}
   },
   "projects": {
-    "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj": {
+    "C:\\Github Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj",
+        "projectUniqueName": "C:\\Github Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj",
         "projectName": "ClassLibraryVbNet",
-        "projectPath": "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj",
+        "projectPath": "C:\\Github Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\ClassLibraryVbNet.vbproj",
         "packagesPath": "C:\\Users\\jhon.vargas\\.nuget\\packages\\",
-        "outputPath": "C:\\Clone Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\obj\\",
+        "outputPath": "C:\\Github Repositories\\TestProjectCSharpVbNet\\SolutionTestCVbNet\\ClassLibraryVbNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\jhon.vargas\\AppData\\Roaming\\NuGet\\NuGet.Config",
